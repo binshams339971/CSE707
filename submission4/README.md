@@ -18,6 +18,8 @@ Conference Name: International Conference On Distributed Computing And Electrica
 
 Conference URL: https://icdcece.in/
 
+Submission email screenshot link: https://drive.google.com/file/d/1PJvCrDPx4nCA7RKyDZvCtGca33U1SBME/view?usp=sharing
+
 
 Group Number: 7
 
