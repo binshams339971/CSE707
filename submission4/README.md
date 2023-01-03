@@ -1,21 +1,22 @@
-
 # Research Paper Presentation
 
 Youtube link: 
 
-File link: 
+File link: https://docs.google.com/document/d/1P_H_IEB7MNGLixt7U9kT2CbXE82MPpcq/edit?rtpof=true
 
-Paper Title:
+Presentation Link: https://docs.google.com/presentation/d/1H-Az99GCwnDz7AS4Z9Qdsrr6gwH0NS7-p-fHkYjN0e4/edit?usp=sharing
 
-Conference submitted paper / paper submission / login Link: https://easychair.org/account/signin
+Paper Title: Decentralized backup of logging data in cloud applications using IPFS
 
-Paper submission date: 3rd January 2023
+Conference submitted paper link: https://easychair.org/conferences/?conf=icdcece2023
+
+Paper submission date: 3 January 2023
 
 Paper submission ID: 2706
 
-Conference Name: 9th International Conference on Advanced Computing and Communication Systems (ICACCS 2023)
+Conference Name: International Conference On Distributed Computing And Electrical Circuits And Electronics (ICDCECE-2023)
 
-Conference URL: https://icaccs.sece.ac.in/index.html
+Conference URL: https://icdcece.in/
 
 
 Group Number: 7
